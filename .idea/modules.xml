@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalMinor2-master.iml" filepath="$PROJECT_DIR$/FinalMinor2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalMinor-6b8a9591d4bc5730b1e7487886209e3903a6ac36.iml" filepath="$PROJECT_DIR$/finalMinor-6b8a9591d4bc5730b1e7487886209e3903a6ac36.iml" />
+    </modules>
+  </component>
+</project>
